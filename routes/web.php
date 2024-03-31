@@ -14,4 +14,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// Here is the main route as per the assignment to cover all steps
 Route::get('/', SurveyForm::class);
